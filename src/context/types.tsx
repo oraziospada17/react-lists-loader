@@ -4,6 +4,8 @@ export enum FieldNames {
 }
 
 export enum Operators {
+    g=">",
+    l="<",
     ge=">=",
     le="<=",
     equals="==="
